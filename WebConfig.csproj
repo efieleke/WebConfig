@@ -38,7 +38,7 @@ WebAppSettings.Get&lt;bool&gt;("logSection", typeof(MyClass), "Timestamp")</Desc
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Sayer.Config" Version="1.0.0" />
+    <PackageReference Include="Sayer.Config" Version="1.0.1" />
   </ItemGroup>
 
   <ItemGroup>

@@ -46,7 +46,7 @@ WebAppSettings.Get&lt;bool&gt;("logSection", typeof(MyClass), "Timestamp")</Desc
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="..\efieleke\Utils\LICENSE">
+    <None Include="LICENSE">
       <Pack>True</Pack>
       <PackagePath></PackagePath>
     </None>
